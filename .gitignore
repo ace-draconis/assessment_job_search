@@ -1,0 +1,23 @@
+# Laravel application files
+src/vendor/
+src/node_modules/
+src/.env
+src/storage/*.key
+src/storage/logs/*
+src/storage/framework/cache/*
+src/storage/framework/sessions/*
+src/storage/framework/views/*
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker volumes
+mysql_data/
