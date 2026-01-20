@@ -407,7 +407,12 @@ Most of that was setting up the infrastructure and creating realistic test data.
 
 ---
 
-**Built by:** ace.kuro21@gmail.com 
-**Date:** January 2026  
-**Purpose:** SQL Query Optimization Assessment
+### I use AI in:
+1. Github Copilot:
+- Extracting table names and relationship from the query.
+- Generating Database Seeds for realistic IT related Jobs data (something that I understands better).
+- Setting up a single docker container with Laravel app, Nginx, Mysql, Phpmyadmin with configurations and dependencies
+
+
+
 
